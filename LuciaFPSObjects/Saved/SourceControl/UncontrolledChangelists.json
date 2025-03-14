@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/apaton301/Documents/Unreal Projects/LuciaFPSObjects/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/apaton301/Documents/Unreal Projects/LuciaFPSObjects/Content/EquippableObjects/BaseWeapons/BaseGunComponent_BP.uasset",
+				"C:/Users/apaton301/Documents/Unreal Projects/LuciaFPSObjects/Content/EquippableObjects/BaseWeapons/WeaponBase_BP.uasset",
+				"C:/Users/apaton301/Documents/Unreal Projects/LuciaFPSObjects/Content/EquippableObjects/BaseWeapons/ProjectileWeaponBase_BP.uasset",
+				"C:/Users/apaton301/Documents/Unreal Projects/LuciaFPSObjects/Content/EquippableObjects/BaseWeapons/ProjectileBase_BP.uasset",
+				"C:/Users/apaton301/Documents/Unreal Projects/LuciaFPSObjects/Content/EquippableObjects/BaseWeapons/HitscanWeaponBase_BP.uasset",
+				"C:/Users/apaton301/Documents/Unreal Projects/LuciaFPSObjects/Content/EquippableObjects/Examples/TestProjectile_BP.uasset",
+				"C:/Users/apaton301/Documents/Unreal Projects/LuciaFPSObjects/Content/EquippableObjects/Examples/TestProjWeapon_BP.uasset"
+			]
+		}
+	]
+}
