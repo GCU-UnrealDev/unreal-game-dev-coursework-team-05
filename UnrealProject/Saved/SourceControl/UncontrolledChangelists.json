@@ -1,0 +1,40 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/1.MyStuff/UnrealProject/Content/UnrealProject/Looking_C.uasset",
+				"D:/1.MyStuff/UnrealProject/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
+				"D:/1.MyStuff/UnrealProject/Content/UnrealProject/Unreal_AnimBP.uasset",
+				"D:/1.MyStuff/UnrealProject/Content/UnrealProject/FindWanderLocation.uasset",
+				"D:/1.MyStuff/UnrealProject/Content/UnrealProject/Unreal_BT.uasset",
+				"D:/1.MyStuff/UnrealProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/H6/AETWOG0D8OUDP49JAU7Q0L.uasset",
+				"D:/1.MyStuff/UnrealProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/C8/Z38FT77DKZLKDXTQ7PZNM4.uasset",
+				"D:/1.MyStuff/UnrealProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/CF/ZNIOCRD90Z70MMV9NMW778.uasset",
+				"D:/1.MyStuff/UnrealProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/GI/GZM47KS5FPIQH5TLSYC1ME.uasset",
+				"D:/1.MyStuff/UnrealProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/58/HRPKGG0BCIMEDZ9B85QKNS.uasset",
+				"C:/Users/lcook301/Documents/Unreal Projects/UnrealProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/lcook301/Documents/Unreal Projects/UnrealProject/Content/UnrealProject/UnrealNPC_C.uasset",
+				"C:/Users/lcook301/Documents/Unreal Projects/UnrealProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/O0/5HLIVCMEAK56JXOKSCGYAJ.uasset",
+				"C:/Users/lcook301/Documents/Unreal Projects/UnrealProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/51/57VMTZ5HFB204N0Y6DBITC.uasset",
+				"C:/Users/lcook301/Documents/Unreal Projects/UnrealProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/WE/T1Q8KE9X6NYW4AHM3PV1F1.uasset",
+				"C:/Users/lcook301/Documents/Unreal Projects/UnrealProject/Content/UnrealProject/Unreal_AnimBP.uasset",
+				"C:/Users/lcook301/Documents/Unreal Projects/UnrealProject/Content/UnrealProject/Unreal_AIC.uasset",
+				"C:/Users/lcook301/Documents/Unreal Projects/UnrealProject/Content/UnrealProject/Unreal_BT.uasset",
+				"C:/Users/lcook301/Documents/Unreal Projects/UnrealProject/Content/UnrealProject/FindWanderLocation.uasset",
+				"C:/Users/lcook301/Documents/Unreal Projects/UnrealProject/Content/UnrealProject/FindWanderLocation_EQS.uasset",
+				"C:/Users/lcook301/Documents/Unreal Projects/UnrealProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/V0/5W6WNEPMCQ3N3XCUD4DTLC.uasset",
+				"C:/Users/lcook301/Documents/Unreal Projects/UnrealProject/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"C:/Users/lcook301/Documents/Unreal Projects/UnrealProject/Content/UnrealProject/Unreal_BB.uasset",
+				"C:/Users/lcook301/Documents/Unreal Projects/UnrealProject/Content/UnrealProject/EQS_TEST.uasset",
+				"C:/Users/lcook301/Documents/Unreal Projects/UnrealProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/1Z/CE3TFKRPZNPMF92B9Z031O.uasset",
+				"C:/Users/lcook301/Documents/Unreal Projects/UnrealProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/C8/Z38FT77DKZLKDXTQ7PZNM4.uasset",
+				"C:/Users/lcook301/Documents/Unreal Projects/UnrealProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/GI/GZM47KS5FPIQH5TLSYC1ME.uasset",
+				"C:/Users/lcook301/Documents/Unreal Projects/UnrealProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/3M/4ATOKH0ZGPCVBS85MPKAXK.uasset",
+				"C:/Users/lcook301/Documents/Unreal Projects/UnrealProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/CF/ZNIOCRD90Z70MMV9NMW778.uasset"
+			]
+		}
+	]
+}
