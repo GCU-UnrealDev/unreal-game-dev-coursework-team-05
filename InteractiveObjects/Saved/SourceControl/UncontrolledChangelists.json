@@ -1,0 +1,40 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Users/User/Downloads/MainUnrealGame (1)/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/Users/User/Downloads/MainUnrealGame (1)/Content/Button_BP.uasset",
+				"D:/Users/User/Downloads/MainUnrealGame (1)/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/GV/EQOI9ZYXZ6TJ6KISV5AA8E.uasset",
+				"D:/Users/User/Downloads/MainUnrealGame (1)/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/Users/User/Downloads/MainUnrealGame (1)/Content/FirstPerson/Input/IMC_Default.uasset",
+				"D:/Users/User/Downloads/MainUnrealGame (1)/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/OD/YPSPM063O6XAJVKSDHY2JX.uasset",
+				"D:/Users/User/Downloads/MainUnrealGame (1)/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/AI/0XWE3RNM2XQC0ST1KXG02O.uasset",
+				"D:/Users/User/Downloads/MainUnrealGame (1)/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/P2/6XT97Q2UNLKFACGA3PHY7M.uasset",
+				"D:/Users/User/Downloads/MainUnrealGame (1)/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/YE/C8BQ4MXOQV9AE5MTYA63UP.uasset",
+				"D:/Users/User/Downloads/MainUnrealGame (1)/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/MI/5W3XKGWGKERY7YRJ3R81TN.uasset",
+				"D:/Users/User/Downloads/MainUnrealGame (1)/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/SJ/4C4Y511NOO4XFYKOBIL7ZZ.uasset",
+				"D:/Users/User/Downloads/MainUnrealGame (1)/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/WJ/K6NIG17KHWSXURBUPXJZDB.uasset",
+				"D:/Users/User/Downloads/MainUnrealGame (1)/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/F/3Z/6BXVDTONOINGE66X36665P.uasset",
+				"D:/Users/User/Downloads/MainUnrealGame (1)/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/1G/Q6W7VI1CTZMWS38ZP513LP.uasset",
+				"D:/Users/User/Downloads/MainUnrealGame (1)/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/YG/OBOI41CX4R6E79A22X7Z4J.uasset",
+				"D:/Users/User/Downloads/MainUnrealGame (1)/Content/FirstPerson/Input/Actions/IA_Pickup.uasset",
+				"D:/Users/User/Downloads/MainUnrealGame (1)/Content/PressurePad.uasset",
+				"D:/Users/User/Downloads/MainUnrealGame (1)/Content/EmissiveOff.uasset",
+				"D:/Users/User/Downloads/MainUnrealGame (1)/Content/EmissiveOn.uasset",
+				"D:/Users/User/Downloads/MainUnrealGame (1)/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/NA/2E00JZPRFPEVRWTMQEVBFX.uasset",
+				"D:/Users/User/Downloads/MainUnrealGame (1)/Content/Lightbulb.uasset",
+				"D:/Users/User/Downloads/MainUnrealGame (1)/Content/Light.uasset",
+				"D:/Users/User/Downloads/MainUnrealGame (1)/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/UQ/LC0XGMXX2CANUPABR1907B.uasset",
+				"D:/Users/User/Downloads/MainUnrealGame (1)/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/OS/1ZFTSKSVHCYMXAEV1QN8AS.uasset",
+				"D:/Users/User/Downloads/MainUnrealGame (1)/Content/Lift.uasset",
+				"D:/Users/User/Downloads/MainUnrealGame (1)/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/ZI/OSFURB4DV3B91X9VBV9S1V.uasset",
+				"D:/Users/User/Downloads/MainUnrealGame (1)/Content/ButtonType_E.uasset",
+				"D:/Users/User/Downloads/MainUnrealGame (1)/Content/ButtonBase_BP.uasset",
+				"D:/Users/User/Downloads/MainUnrealGame (1)/Content/Emissive.uasset"
+			]
+		}
+	]
+}
